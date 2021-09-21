@@ -2,6 +2,8 @@
 
 body {
   font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .generic_footer {
@@ -21,6 +23,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-left: 0;
 }
 
 .footer_list_item a {

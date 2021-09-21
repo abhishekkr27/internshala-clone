@@ -33,8 +33,10 @@ button {
 
 .logo {
   cursor: pointer;
-  margin-top: 0;
+  margin-top: auto;
   margin-right: auto;
+  margin-left: 50px;
+  margin-bottom: auto;
 }
 
 .nav_links {
@@ -48,7 +50,7 @@ button {
   color: #008bde;
 }
 
-.headingbutton {
+.headingbutton1 {
   padding: 9px 25px;
   color: #008bde;
   border: 1px solid #008bde;
@@ -56,11 +58,28 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
-.headingbutton:hover {
+
+.headingbutton2 {
+  margin-right: 120px;
+  padding: 9px 25px;
+  color: #008bde;
+  border: 1px solid #008bde;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.headingbutton1:hover {
   color: #0082d4;
   box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
 }
-#register:hover {
+
+.headingbutton2:hover {
+  color: #0082d4;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+}
+
+#register2:hover {
   background-color: #0082d4;
 }
 #headOffer {

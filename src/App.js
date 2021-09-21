@@ -13,16 +13,16 @@ function App() {
 
   let data = [
     {
-      image: "https://static2.tripoto.com/media/filter/tst/img/735873/TripDocument/1537686560_1537686557954.jpg",
+      image: "https://internshala.com/uploads/campaigns/get_set_intern_2021/og_image_60f13fbb358af.png",
     },
     {
-      image: "https://cdn.britannica.com/s:800x450,c:crop/35/204435-138-2F2B745A/Time-lapse-hyper-lapse-Isle-Skye-Scotland.jpg",
+      image: "https://s3-ap-southeast-1.amazonaws.com/blog.internshala.com/wp-content/uploads/2020/10/Internshala-Training.jpg",
     },
     {
-      image: "https://static2.tripoto.com/media/filter/tst/img/735873/TripDocument/1537686560_1537686557954.jpg",
+      image: "https://internshala.com/uploads/campaigns/get_set_intern_2021/og_image_60f13fbb358af.png",
     },
     {
-      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Palace_of_Fine_Arts_%2816794p%29.jpg/1200px-Palace_of_Fine_Arts_%2816794p%29.jpg",
+      image: "https://trainings.internshala.com/static/images/og-image.png?v=1",
     },
   ];
 
@@ -41,7 +41,7 @@ function App() {
         <nav>
           <ul class="nav_links">
             <li>
-              <a href="internships.ejs">Internships</a>
+              <a href="#">Internships</a>
             </li>
             <li>
               <a href="#">Online Training <span id="headOffer">OFFER</span></a>
@@ -51,12 +51,12 @@ function App() {
             </li>
           </ul>
         </nav>
-        <a href="students_log.ejs" id="cta">
-          <button class="headingbutton">Login</button></a
+        <a href="#" id="cta">
+          <button class="headingbutton1">Login</button></a
         >
 
-        <a href="students_reg.ejs" id="cta1">
-          <button class="headingbutton" id="register">Register</button></a
+        <a href="#" id="cta1">
+          <button class="headingbutton2" id="register">Register</button></a
         >
       </header>
 
