@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/internshala-clone/static/css/main.40dc26c1.chunk.css",
+    "main.js": "/internshala-clone/static/js/main.0a850258.chunk.js",
+    "main.js.map": "/internshala-clone/static/js/main.0a850258.chunk.js.map",
+    "runtime-main.js": "/internshala-clone/static/js/runtime-main.f1d56f09.js",
+    "runtime-main.js.map": "/internshala-clone/static/js/runtime-main.f1d56f09.js.map",
+    "static/css/2.3353e632.chunk.css": "/internshala-clone/static/css/2.3353e632.chunk.css",
+    "static/js/2.a7faab76.chunk.js": "/internshala-clone/static/js/2.a7faab76.chunk.js",
+    "static/js/2.a7faab76.chunk.js.map": "/internshala-clone/static/js/2.a7faab76.chunk.js.map",
+    "index.html": "/internshala-clone/index.html",
+    "static/css/2.3353e632.chunk.css.map": "/internshala-clone/static/css/2.3353e632.chunk.css.map",
+    "static/css/main.40dc26c1.chunk.css.map": "/internshala-clone/static/css/main.40dc26c1.chunk.css.map",
+    "static/js/2.a7faab76.chunk.js.LICENSE.txt": "/internshala-clone/static/js/2.a7faab76.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/internshala-clone/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/get_set_intern_2021-1920-5bb08e.57723d98.png": "/internshala-clone/static/media/get_set_intern_2021-1920-5bb08e.57723d98.png",
+    "static/media/learn_with_me-1920-5da5b0.686b6ed9.png": "/internshala-clone/static/media/learn_with_me-1920-5da5b0.686b6ed9.png",
+    "static/media/social_issue_camapign_jul21-1920-b70cf7.890150b7.png": "/internshala-clone/static/media/social_issue_camapign_jul21-1920-b70cf7.890150b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1d56f09.js",
+    "static/css/2.3353e632.chunk.css",
+    "static/js/2.a7faab76.chunk.js",
+    "static/css/main.40dc26c1.chunk.css",
+    "static/js/main.0a850258.chunk.js"
+  ]
+}
